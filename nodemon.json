@@ -1,0 +1,5 @@
+{
+    "env": {
+        "JET_KEY":"secret"
+    }
+}
